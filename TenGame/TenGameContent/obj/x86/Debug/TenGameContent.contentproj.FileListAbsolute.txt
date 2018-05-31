@@ -1,0 +1,3 @@
+C:\Users\Pc\Desktop\Project Manager\LTTQ_Game\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Project Manager\LTTQ_Game\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache
