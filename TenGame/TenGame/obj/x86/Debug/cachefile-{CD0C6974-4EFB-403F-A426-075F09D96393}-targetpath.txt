@@ -6,6 +6,7 @@ Content\StartMenu.xnb
 Content\Shield_.xnb
 Content\Blink.xnb
 Content\ManaShield.xnb
+Content\TimeStop.xnb
 Content\myFont.xnb
 Content\MenuSound.xnb
 Content\gameStart.xnb
@@ -22,5 +23,19 @@ Content\SlowTri.xnb
 Content\AntiMagic.xnb
 Content\SpellShieldImpact.xnb
 Content\BlinkSound.xnb
+Content\TimeStopSound.xnb
 Content\NagaTheme.xnb
 Content\NagaTheme.wma
+Content\easy.xnb
+Content\hard.xnb
+Content\medium.xnb
+Content\MenuImage.xnb
+Content\GuideImage.xnb
+Content\InvisibilityTarget.xnb
+Content\WindWalk.xnb
+Content\FrostArrowHit1.xnb
+Content\FrostBoltHit1.xnb
+Content\Back.xnb
+Content\Exit.xnb
+Content\Guide.xnb
+Content\Play.xnb

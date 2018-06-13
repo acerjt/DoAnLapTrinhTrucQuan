@@ -1,3 +1,8 @@
 C:\Users\Pc\Desktop\Project Manager\LTTQ_Game\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache
 C:\Users\Pc\Desktop\Project Manager\LTTQ_Game\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentproj.CoreCompileInputs.cache
 C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGameContent\obj\x86\Debug\TenGameContent.contentprojResolveAssemblyReference.cache

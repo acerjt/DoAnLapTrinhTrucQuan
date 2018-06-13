@@ -38,7 +38,7 @@ namespace TenGame
         {
             if (showHud)
             {
-                spriteBatch.DrawString(playerScoreFont, "Score - " + playerScore, playerScorePos, Color.Red);
+                spriteBatch.DrawString(playerScoreFont, "Score  " + playerScore, playerScorePos, Color.Red);
             }
         }
         public void Update(GameTime gameTime)

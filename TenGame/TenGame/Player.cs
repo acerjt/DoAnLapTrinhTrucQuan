@@ -29,11 +29,25 @@ namespace TenGame
         public float shield_range = 70; // tầm hoạt động của khiên
         public float shielded_time = 5000f; // thời gian khiên tồn tại
         public float shielded_elapsed = 0; // biến đếm thời gian khiên tồn tại
+        
         // các biến xử lý đồ hoạ của khiên
         int shieldWidth;
         int shieldHeight;
         Vector2 shieldOrigin;
         Rectangle shieldSource;
+
+        //Time Stop 
+        public float timestop_CD = 40000f; // thời gian hồi của time stop
+        public float timestop_time = 5000f; // thời gian hiệu quả
+        public float timestop_CD_elapsed = 0;   // biến đếm
+        public float timestop_time_elapsed = 0;// biến đếm
+        public float timestop_still_CD_elapsed = 0;// biến đếm
+        public bool timestop = false; // biến kiểm tra time stop có đang hiệu quả hay không
+        public bool timestop_onCD = false; // biến kiểm tra time stop có đang trong thời gian hồi hay không
+        public Vector2 timestop_pos = new Vector2(158, 530); // vị trí đặt hình
+        public Vector2 timestop_cdPos = new Vector2(158, 500); // vị trí đặt thời gian hồi 
+        public Texture2D timeStopTexture; // icon time stop
+
 
         public Texture2D blinkTexture; // hình của skill W tốc biến
         public Vector2 blink_pos=new Vector2(84,530); // vị trí đặt hình
@@ -42,9 +56,9 @@ namespace TenGame
         public float blink_CD = 10000f; // thời gian hồi skill W
         public bool blink_onCD = false; // skill có đang trong thời gian hồi hay không?
         public float blink_still_on_cd_elapsed = 0;
-        //shield
-        
-        //-
+       
+
+
         SoundManager sm=new SoundManager();
         public float speed; // tốc độ của player 
         public int border; // player không thể tiếp cận 1 khoảng cách có giá trị = border so với viền
@@ -77,8 +91,11 @@ namespace TenGame
             Water_Enemy1.target = position;
             isColliding = false;
             Font = null;
+            //ability texture
             manaShieldTexture=null;
             blinkTexture=null;
+            timeStopTexture = null;
+
     }
         public void reset() // hàm reset player về giá trị ban đầu
         {
@@ -101,6 +118,12 @@ namespace TenGame
             blink_onCD = false;
             blink_still_on_cd_elapsed = 0;
 
+            timestop_CD_elapsed = 0;
+            timestop_time_elapsed = 0;
+            timestop_still_CD_elapsed = 0;
+            timestop = false;
+            timestop_onCD = false;
+
     }
         public void LoadContent(ContentManager Content)
         {
@@ -109,6 +132,7 @@ namespace TenGame
             texture = Content.Load<Texture2D>("fireorb");
             shieldTexture = Content.Load<Texture2D>("Shield_");
             manaShieldTexture = Content.Load<Texture2D>("ManaShield");
+            timeStopTexture = Content.Load<Texture2D>("TimeStop");
             blinkTexture = Content.Load<Texture2D>("Blink");
             spriteOrigin = new Vector2(texture.Height/(2*row), texture.Height/(2*row));
             edge = texture.Height / row;
@@ -138,16 +162,29 @@ namespace TenGame
                     if (shield_onCD)
                     {
                          spriteBatch.Draw(manaShieldTexture, manaShield_pos, Color.Gray);
-                         spriteBatch.DrawString(Font, ((shield_cooldown - shield_elapsed) / 1000f).ToString("0.0"), manaShield_cdPos, Color.Black);
+                         spriteBatch.DrawString(Font, ((shield_cooldown - shield_elapsed) / 1000f).ToString("0.0"), manaShield_cdPos, Color.Teal);
                     }
             else spriteBatch.Draw(manaShieldTexture, manaShield_pos, Color.White);
             // Vẽ Blink Icon
             if (blink_onCD)
             {
                 spriteBatch.Draw(blinkTexture, blink_pos, Color.Gray);
-                spriteBatch.DrawString(Font, ((blink_CD - blink_onCD_elapsed) / 1000f).ToString("0.0"), Blink_cdPos, Color.Black);
+                spriteBatch.DrawString(Font, ((blink_CD - blink_onCD_elapsed) / 1000f).ToString("0.0"), Blink_cdPos, Color.Teal);
             }
             else spriteBatch.Draw(blinkTexture, blink_pos, Color.White);
+            // Vẽ Time Stop Icon
+            if (timestop)
+            {
+                spriteBatch.Draw(timeStopTexture, timestop_pos, Color.Gray);
+                spriteBatch.DrawString(Font, ((timestop_time - timestop_time_elapsed) / 1000f).ToString("0.0"), timestop_cdPos, Color.Red);
+            }
+            else
+                    if (timestop_onCD)
+            {
+                spriteBatch.Draw(timeStopTexture, timestop_pos, Color.Gray);
+                spriteBatch.DrawString(Font, ((timestop_CD - timestop_CD_elapsed) / 1000f).ToString("0.0"), timestop_cdPos, Color.Teal);
+            }
+            else spriteBatch.Draw(timeStopTexture, timestop_pos, Color.White);
             //  VẼ Player
             spriteBatch.Draw(texture, position, sourceRect, p_color, rotation, spriteOrigin, 1f, SpriteEffects.None, 0);
         }
@@ -230,6 +267,51 @@ namespace TenGame
                         blink_still_on_cd_elapsed = 0;
                         sm.onCD.Play();
                     }
+                }
+            }
+            //Xử lý khi sử dụng timestop
+            if (keyboardState.IsKeyDown(Keys.E))
+            {
+                if (!timestop_onCD)
+                {
+                    timestop_onCD = true;
+                    timestop = true;
+                    timestop_CD_elapsed = 0f;
+                    timestop_time_elapsed = 0f;
+                    sm.TimeStop.Play();
+                }
+                else
+                {
+                    if (timestop_still_CD_elapsed > sm.onCD.Duration.TotalMilliseconds)
+                    {
+                        timestop_still_CD_elapsed = 0;
+                        sm.onCD.Play();
+                    }
+                }
+            }
+
+            //đếm thời gian timestop hồi
+            if (timestop_onCD)
+            {
+                timestop_still_CD_elapsed+= (float)gameTime.ElapsedGameTime.TotalMilliseconds;
+                if (!timestop)
+                {
+                    timestop_CD_elapsed += (float)gameTime.ElapsedGameTime.TotalMilliseconds;
+                    if (timestop_CD_elapsed > timestop_CD)
+                    {
+                        timestop_onCD = false;
+                        timestop_CD_elapsed = 0;
+                    }
+                }
+            }
+            //Đếm thời gian timestop hết tác dụng
+            if (timestop)
+            {
+                timestop_time_elapsed += (float)gameTime.ElapsedGameTime.TotalMilliseconds;
+                if (timestop_time_elapsed > timestop_time)
+                {
+                    timestop_time_elapsed = 0;
+                    timestop = false;
                 }
             }
             //đếm thời gian skill W hồi

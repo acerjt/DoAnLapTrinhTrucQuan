@@ -84,3 +84,150 @@ C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Microsoft.Xn
 C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
 C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csprojResolveAssemblyReference.cache
 C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\fireorb.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_enemy1.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_orb.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\warning.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\StartMenu.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield_.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Blink.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ManaShield.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuSound.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\gameStart.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\_game_Increased.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\LightningSound.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ShootStart.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Done.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\OrbStart.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\onCD.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterLakeLoop1.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterSlow.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SlowTri.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\AntiMagic.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SpellShieldImpact.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\BlinkSound.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Keep da Fire.exe
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Keep da Fire.pdb
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csproj.CopyComplete
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.exe
+C:\Users\Pc\Desktop\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.pdb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\fireorb.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_enemy1.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_orb.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\warning.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\StartMenu.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield_.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Blink.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ManaShield.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuSound.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\gameStart.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\_game_Increased.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\LightningSound.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ShootStart.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Done.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\OrbStart.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\onCD.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterLakeLoop1.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterSlow.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SlowTri.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\AntiMagic.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SpellShieldImpact.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\BlinkSound.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Keep da Fire.exe
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Keep da Fire.pdb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csproj.CopyComplete
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.exe
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.pdb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\TimeStop.xnb
+C:\Users\Pc\Desktop\Work2\DoAnLapTrinhTrucQuan-master\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\TimeStopSound.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\fireorb.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_enemy1.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_orb.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\warning.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\StartMenu.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield_.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Blink.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ManaShield.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\TimeStop.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\myFont.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuSound.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\gameStart.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\_game_Increased.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\LightningSound.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ShootStart.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Done.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\OrbStart.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\onCD.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterLakeLoop1.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterSlow.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SlowTri.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\AntiMagic.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SpellShieldImpact.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\BlinkSound.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\TimeStopSound.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Keep da Fire.exe
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Keep da Fire.pdb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.exe
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.pdb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\easy.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\hard.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\medium.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuImage.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\GuideImage.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\InvisibilityTarget.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WindWalk.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\FrostArrowHit1.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\FrostBoltHit1.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Back.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Exit.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Guide.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Play.xnb

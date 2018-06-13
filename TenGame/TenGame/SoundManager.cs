@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
-using Microsoft.Xna.Framework.Audio;
+//using Microsoft.Xna.Framework.Audio;
 
 namespace TenGame
 {
@@ -29,7 +29,8 @@ namespace TenGame
         public SoundEffect SlowTri; 
         public SoundEffect AntiMagic; // sound khi các cục nước chạm vào khiên
         public SoundEffect SpellShieldImpact; // sound khi khiên bị phá vỡ
-        public SoundEffect Blink; // sound khi sử dụng skill tốc biện
+        public SoundEffect Blink; // sound khi sử dụng tốc biến
+        public SoundEffect TimeStop; // sound khi sử dụng time stop
         public float elapsed = 0;
         public Song bgMusic; //
         
@@ -80,6 +81,7 @@ namespace TenGame
             AntiMagic = null;
             SpellShieldImpact = null;
             Blink = null;
+            TimeStop = null;
         }
         public void LoadContent(ContentManager Content)
         {
@@ -99,6 +101,7 @@ namespace TenGame
             AntiMagic = Content.Load<SoundEffect>("AntiMagic");
             SpellShieldImpact = Content.Load<SoundEffect>("SpellShieldImpact");
             Blink = Content.Load<SoundEffect>("BlinkSound");
+            TimeStop = Content.Load<SoundEffect>("TimeStopSound");
         }
     }
 }

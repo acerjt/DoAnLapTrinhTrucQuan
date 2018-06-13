@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\fireorb.xnb</Output>
-      <Time>2018-05-23T13:19:00.0731381+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\fireorb.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>water_enemy1.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\water_enemy1.xnb</Output>
-      <Time>2018-05-23T13:59:18.1644164+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_enemy1.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>water_orb.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\water_orb.xnb</Output>
-      <Time>2018-05-23T15:50:42.6102643+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\water_orb.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>warning.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\warning.xnb</Output>
-      <Time>2018-05-23T20:26:06.684623+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\warning.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>StartMenu.jpg</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\StartMenu.xnb</Output>
-      <Time>2018-05-23T21:20:49.700369+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\StartMenu.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>Shield_.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\Shield_.xnb</Output>
-      <Time>2018-05-24T14:40:20.1314861+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield_.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>Blink.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\Blink.xnb</Output>
-      <Time>2018-05-25T15:17:37.1063403+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Blink.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>ManaShield.png</Source>
@@ -70,8 +70,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\ManaShield.xnb</Output>
-      <Time>2018-05-25T15:17:48.5994961+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ManaShield.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>TimeStop.png</Source>
+      <Name>TimeStop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\TimeStop.xnb</Output>
+      <Time>2018-06-12T16:28:05.1167682+07:00</Time>
     </Item>
     <Item>
       <Source>myFont.spritefont</Source>
@@ -79,8 +88,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\myFont.xnb</Output>
-      <Time>2018-05-23T22:13:45.8700628+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>MenuSound.wav</Source>
@@ -88,8 +97,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\MenuSound.xnb</Output>
-      <Time>2003-04-11T07:24:40.633875+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuSound.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>gameStart.wav</Source>
@@ -97,8 +106,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\gameStart.xnb</Output>
-      <Time>2003-04-05T13:04:38.5200625+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\gameStart.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>_game_Increased.wav</Source>
@@ -106,8 +115,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\_game_Increased.xnb</Output>
-      <Time>2003-04-05T13:04:37.7700625+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\_game_Increased.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>LightningSound.wav</Source>
@@ -115,8 +124,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\LightningSound.xnb</Output>
-      <Time>2002-01-10T09:53:08+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\LightningSound.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>ShootStart.wav</Source>
@@ -124,8 +133,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\ShootStart.xnb</Output>
-      <Time>2003-04-05T13:04:39.9419375+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ShootStart.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>Done.wav</Source>
@@ -133,8 +142,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\Done.xnb</Output>
-      <Time>2003-04-05T13:04:39.6294375+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Done.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>OrbStart.wav</Source>
@@ -142,8 +151,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\OrbStart.xnb</Output>
-      <Time>2003-04-05T13:04:37.5669375+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\OrbStart.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>Shield.wav</Source>
@@ -151,8 +160,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\Shield.xnb</Output>
-      <Time>2002-12-04T06:18:48+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Shield.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>onCD.wav</Source>
@@ -160,8 +169,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\onCD.xnb</Output>
-      <Time>2000-05-09T07:28:12+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\onCD.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>WaterLakeLoop1.wav</Source>
@@ -169,8 +178,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\WaterLakeLoop1.xnb</Output>
-      <Time>2001-11-17T04:39:40+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterLakeLoop1.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>WaterSlow.wav</Source>
@@ -178,8 +187,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\WaterSlow.xnb</Output>
-      <Time>2003-04-05T13:04:37.6450625+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WaterSlow.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>SlowTri.wav</Source>
@@ -187,8 +196,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\SlowTri.xnb</Output>
-      <Time>2002-01-11T05:11:24+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SlowTri.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>AntiMagic.wav</Source>
@@ -196,8 +205,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\AntiMagic.xnb</Output>
-      <Time>2002-01-24T03:42:34+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\AntiMagic.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>SpellShieldImpact.wav</Source>
@@ -205,8 +214,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\SpellShieldImpact.xnb</Output>
-      <Time>2003-02-18T08:28:25+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\SpellShieldImpact.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <Item>
       <Source>BlinkSound.wav</Source>
@@ -214,8 +223,17 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\BlinkSound.xnb</Output>
-      <Time>2003-02-12T07:47:20+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\BlinkSound.xnb</Output>
+      <Time>2018-05-31T23:32:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>TimeStopSound.wav</Source>
+      <Name>TimeStopSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\TimeStopSound.xnb</Output>
+      <Time>2018-06-12T16:51:16.8219494+07:00</Time>
     </Item>
     <Item>
       <Source>NagaTheme.mp3</Source>
@@ -223,9 +241,126 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb</Output>
-      <Extra>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma</Extra>
-      <Time>2003-03-21T06:05:42+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb</Output>
+      <Extra>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma</Extra>
+      <Time>2018-05-31T23:32:18+07:00</Time>
+    </Item>
+    <Item>
+      <Source>easy.png</Source>
+      <Name>easy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\easy.xnb</Output>
+      <Time>2018-06-12T20:39:55.9064271+07:00</Time>
+    </Item>
+    <Item>
+      <Source>hard.png</Source>
+      <Name>hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\hard.xnb</Output>
+      <Time>2018-06-12T20:39:55.9183947+07:00</Time>
+    </Item>
+    <Item>
+      <Source>medium.png</Source>
+      <Name>medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\medium.xnb</Output>
+      <Time>2018-06-12T20:39:55.925411+07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImage.jpg</Source>
+      <Name>MenuImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuImage.xnb</Output>
+      <Time>2018-06-12T20:39:55.9353495+07:00</Time>
+    </Item>
+    <Item>
+      <Source>GuideImage.png</Source>
+      <Name>GuideImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\GuideImage.xnb</Output>
+      <Time>2018-06-13T00:16:53.0564124+07:00</Time>
+    </Item>
+    <Item>
+      <Source>InvisibilityTarget.wav</Source>
+      <Name>InvisibilityTarget</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\InvisibilityTarget.xnb</Output>
+      <Time>2018-06-12T22:02:25.7902631+07:00</Time>
+    </Item>
+    <Item>
+      <Source>WindWalk.wav</Source>
+      <Name>WindWalk</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\WindWalk.xnb</Output>
+      <Time>2018-06-12T22:09:33.3953208+07:00</Time>
+    </Item>
+    <Item>
+      <Source>FrostArrowHit1.wav</Source>
+      <Name>FrostArrowHit1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\FrostArrowHit1.xnb</Output>
+      <Time>2018-06-12T22:24:29.3220639+07:00</Time>
+    </Item>
+    <Item>
+      <Source>FrostBoltHit1.wav</Source>
+      <Name>FrostBoltHit1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\FrostBoltHit1.xnb</Output>
+      <Time>2018-06-12T22:24:41.4729795+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Back.png</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2018-06-13T11:54:38.8824434+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit.png</Source>
+      <Name>Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Exit.xnb</Output>
+      <Time>2018-06-13T11:53:53.9074729+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Guide.png</Source>
+      <Name>Guide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Guide.xnb</Output>
+      <Time>2018-06-13T11:54:20.65863+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Play.png</Source>
+      <Name>Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Play.xnb</Output>
+      <Time>2018-06-13T11:54:30.0652811+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -234,10 +369,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\ASUS\Downloads\Thu\LTTQ_Game\TenGame\TenGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
