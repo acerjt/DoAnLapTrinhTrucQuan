@@ -83,6 +83,96 @@
       <Time>2018-06-12T16:28:05.1167682+07:00</Time>
     </Item>
     <Item>
+      <Source>easy.png</Source>
+      <Name>easy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\easy.xnb</Output>
+      <Time>2018-06-12T20:39:55.9064271+07:00</Time>
+    </Item>
+    <Item>
+      <Source>hard.png</Source>
+      <Name>hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\hard.xnb</Output>
+      <Time>2018-06-12T20:39:55.9183947+07:00</Time>
+    </Item>
+    <Item>
+      <Source>medium.png</Source>
+      <Name>medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\medium.xnb</Output>
+      <Time>2018-06-12T20:39:55.925411+07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImage.jpg</Source>
+      <Name>MenuImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuImage.xnb</Output>
+      <Time>2018-06-12T20:39:55.9353495+07:00</Time>
+    </Item>
+    <Item>
+      <Source>GuideImage.png</Source>
+      <Name>GuideImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\GuideImage.xnb</Output>
+      <Time>2018-06-13T00:16:53.0564124+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Back.png</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2018-06-13T11:54:38.8824434+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit.png</Source>
+      <Name>Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Exit.xnb</Output>
+      <Time>2018-06-13T11:53:53.9074729+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Guide.png</Source>
+      <Name>Guide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Guide.xnb</Output>
+      <Time>2018-06-13T11:54:20.65863+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Play.png</Source>
+      <Name>Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Play.xnb</Output>
+      <Time>2018-06-13T11:54:30.0652811+07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayImage.png</Source>
+      <Name>PlayImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\PlayImage.xnb</Output>
+      <Time>2018-06-15T13:46:28.5035031+07:00</Time>
+    </Item>
+    <Item>
       <Source>myFont.spritefont</Source>
       <Name>myFont</Name>
       <Importer>FontDescriptionImporter</Importer>
@@ -236,61 +326,6 @@
       <Time>2018-06-12T16:51:16.8219494+07:00</Time>
     </Item>
     <Item>
-      <Source>NagaTheme.mp3</Source>
-      <Name>NagaTheme</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb</Output>
-      <Extra>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma</Extra>
-      <Time>2018-05-31T23:32:18+07:00</Time>
-    </Item>
-    <Item>
-      <Source>easy.png</Source>
-      <Name>easy</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\easy.xnb</Output>
-      <Time>2018-06-12T20:39:55.9064271+07:00</Time>
-    </Item>
-    <Item>
-      <Source>hard.png</Source>
-      <Name>hard</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\hard.xnb</Output>
-      <Time>2018-06-12T20:39:55.9183947+07:00</Time>
-    </Item>
-    <Item>
-      <Source>medium.png</Source>
-      <Name>medium</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\medium.xnb</Output>
-      <Time>2018-06-12T20:39:55.925411+07:00</Time>
-    </Item>
-    <Item>
-      <Source>MenuImage.jpg</Source>
-      <Name>MenuImage</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\MenuImage.xnb</Output>
-      <Time>2018-06-12T20:39:55.9353495+07:00</Time>
-    </Item>
-    <Item>
-      <Source>GuideImage.png</Source>
-      <Name>GuideImage</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\GuideImage.xnb</Output>
-      <Time>2018-06-13T00:16:53.0564124+07:00</Time>
-    </Item>
-    <Item>
       <Source>InvisibilityTarget.wav</Source>
       <Name>InvisibilityTarget</Name>
       <Importer>WavImporter</Importer>
@@ -327,40 +362,23 @@
       <Time>2018-06-12T22:24:41.4729795+07:00</Time>
     </Item>
     <Item>
-      <Source>Back.png</Source>
-      <Name>Back</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
+      <Source>ShadowStrikeBirth1.wav</Source>
+      <Name>ShadowStrikeBirth1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Back.xnb</Output>
-      <Time>2018-06-13T11:54:38.8824434+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ShadowStrikeBirth1.xnb</Output>
+      <Time>2018-06-15T15:18:28.8361197+07:00</Time>
     </Item>
     <Item>
-      <Source>Exit.png</Source>
-      <Name>Exit</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
+      <Source>NagaTheme.mp3</Source>
+      <Name>NagaTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Exit.xnb</Output>
-      <Time>2018-06-13T11:53:53.9074729+07:00</Time>
-    </Item>
-    <Item>
-      <Source>Guide.png</Source>
-      <Name>Guide</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Guide.xnb</Output>
-      <Time>2018-06-13T11:54:20.65863+07:00</Time>
-    </Item>
-    <Item>
-      <Source>Play.png</Source>
-      <Name>Play</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Play.xnb</Output>
-      <Time>2018-06-13T11:54:30.0652811+07:00</Time>
+      <Output>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.xnb</Output>
+      <Extra>C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\NagaTheme.wma</Extra>
+      <Time>2018-05-31T23:32:18+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

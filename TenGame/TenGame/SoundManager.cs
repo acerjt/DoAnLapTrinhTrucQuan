@@ -97,7 +97,7 @@ namespace TenGame
             onCD = Content.Load<SoundEffect>("onCD");
             waterloop= Content.Load<SoundEffect>("WaterLakeLoop1");
             WaterSlow= Content.Load<SoundEffect>("WaterSlow");
-            SlowTri = Content.Load<SoundEffect>("SlowTri");
+            SlowTri = Content.Load<SoundEffect>("ShadowStrikeBirth1");
             AntiMagic = Content.Load<SoundEffect>("AntiMagic");
             SpellShieldImpact = Content.Load<SoundEffect>("SpellShieldImpact");
             Blink = Content.Load<SoundEffect>("BlinkSound");

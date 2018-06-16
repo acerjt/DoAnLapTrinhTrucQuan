@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2011
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep da Fire", "TenGame\TenGame\Keep da Fire.csproj", "{1FECCC79-7931-4F6A-8EFE-FD5EB7AFE1C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenGameContent", "TenGame\TenGameContent\TenGameContent.contentproj", "{CD0C6974-4EFB-403F-A426-075F09D96393}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{37F02566-7CC1-4F58-A9B7-4B86431BDBCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +21,8 @@ Global
 		{1FECCC79-7931-4F6A-8EFE-FD5EB7AFE1C8}.Release|x86.Build.0 = Release|x86
 		{CD0C6974-4EFB-403F-A426-075F09D96393}.Debug|x86.ActiveCfg = Debug|x86
 		{CD0C6974-4EFB-403F-A426-075F09D96393}.Release|x86.ActiveCfg = Release|x86
+		{37F02566-7CC1-4F58-A9B7-4B86431BDBCE}.Debug|x86.ActiveCfg = Debug
+		{37F02566-7CC1-4F58-A9B7-4B86431BDBCE}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

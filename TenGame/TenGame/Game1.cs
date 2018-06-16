@@ -74,6 +74,7 @@ namespace TenGame
         Vector2 shieldOrigin;
         Rectangle shieldSource;
         Texture2D menuImage;
+        Texture2D playImage;
         Texture2D guideImage;
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
@@ -308,6 +309,7 @@ namespace TenGame
             water1_texture = Content.Load<Texture2D>("water_enemy1");
             water_orb_texture = Content.Load<Texture2D>("water_orb");
             menuImage = Content.Load<Texture2D>("MenuImage");
+            playImage = Content.Load<Texture2D>("PlayImage");
             guideImage = Content.Load<Texture2D>("GuideImage");
             MediaPlayer.Volume = 0.07f;
             MediaPlayer.IsRepeating = true;
@@ -553,7 +555,7 @@ namespace TenGame
             switch (gameState)
             {
                 case State.Playing:
-                    spriteBatch.Draw(menuImage, new Rectangle(0, 0, 1000, 600), Color.White);
+                    spriteBatch.Draw(playImage, new Rectangle(0, 0, 1000, 600), Color.White);
                     p.Draw(spriteBatch);
                     foreach (Water_Enemy1 w in list_water1)
                         w.Draw(spriteBatch);
@@ -671,7 +673,7 @@ namespace TenGame
                     else
                     {
                         p.speed -= water_slow_speed;
-                        p.p_color = Color.Blue;
+                        p.p_color = Color.Cyan;
                         water_slow_time_elapsed = 1f;
                         sm.SlowTri.Play();
                         

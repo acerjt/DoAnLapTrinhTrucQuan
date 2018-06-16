@@ -214,7 +214,6 @@ C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenG
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
-C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csprojResolveAssemblyReference.cache
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.exe
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.pdb
@@ -231,3 +230,6 @@ C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenG
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Exit.xnb
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Guide.xnb
 C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\Play.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\PlayImage.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\bin\x86\Debug\Content\ShadowStrikeBirth1.xnb
+C:\Users\ASUS\Downloads\New folder (17)\DoAnLapTrinhTrucQuan-master\TenGame\TenGame\obj\x86\Debug\Keep da Fire.csprojResolveAssemblyReference.cache
